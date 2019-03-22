@@ -236,6 +236,16 @@ div#school {
   margin-top: 5%;
 }
 
+img#friends {
+  margin-left: 400px;
+  padding: 60px;
+  margin-top: -400px;
+}
+
+a#finder {
+  margin-left: 500px;
+}
+
 h5 {
   margin-top: -42px;
   border: 1px solid #4aaaa5;
