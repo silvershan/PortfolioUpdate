@@ -196,7 +196,7 @@ div#snowman {
   margin-bottom: 20px;
 }
 
-img#snow, img#disney, img#school {
+img#snow, img#disney, img#school, img#friends {
   margin-bottom: 20px;
 }
 
@@ -210,11 +210,11 @@ a#snow {
   margin-top: 20px;
 }
 
-a#disney {
+a#disney, a#friends {
   margin-left: -145px;
 }
 
-a#mickey {
+a#mickey, a#finder {
   margin-left: 60px;
 }
 
@@ -227,7 +227,7 @@ a#data {
   margin-left: 40px;
 }
 
-div#disney {
+div#disney, div#friends {
   margin-top: 0%;
 }
 
