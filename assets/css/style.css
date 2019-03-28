@@ -246,7 +246,7 @@ a#finder {
   margin-left: 500px;
 }
 
-div#burgers {
+img#burgers, a#burger, a#meat {
   margin-left: 300px;
   margin-top: -100px;
 }
